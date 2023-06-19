@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_search_fragment"
+            android:icon="@drawable/baseline_home_black_24dp"
+            android:title="@string/home" />
+
+        <item
+            android:id="@+id/nav_user_fragment"
+            android:icon="@drawable/baseline_account_circle_black_24dp"
+            android:title="@string/account" />
+        <item
+            android:id="@+id/nav_favorite_fragment"
+            android:icon="@drawable/baseline_favorite_black_24dp"
+            android:title="@string/favourite" />
+        <item
+            android:id="@+id/nav_history_fragment"
+            android:icon="@drawable/baseline_history_black_24dp"
+            android:title="@string/history" />
+    </group>
+    <item android:title="@string/settings">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_choose_language"
+                    android:icon="@drawable/baseline_translate_black_24dp"
+                    android:title="@string/choose_language" />
+                <item
+                    android:id="@+id/nav_logout_fragment"
+                    android:icon="@drawable/baseline_logout_black_24dp"
+                    android:title="@string/logout" />
+            </group>
+        </menu>
+    </item>
+</menu>

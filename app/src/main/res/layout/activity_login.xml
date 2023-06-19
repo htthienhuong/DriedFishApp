@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#fff"
+        android:padding="20dp">
+        <ImageButton
+            android:id="@+id/language_button"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:src="@drawable/language_icon"
+            android:background="#00000000"
+            android:scaleX="1.5"
+            android:scaleY="1.5"
+            android:layout_marginLeft="10dp"
+            android:contentDescription="@string/change_language"
+
+            app:layout_constraintTop_toTopOf="parent" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="200dp">
+
+
+            <ImageView
+                android:id="@+id/logoImage"
+                android:layout_width="233dp"
+                android:layout_height="231dp"
+                android:src="@drawable/dfish"
+                android:transitionName="logo_image" />
+
+            <ProgressBar
+                android:id="@+id/progress_bar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="invisible" />
+        </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/logoText"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/bungee"
+            android:text="@string/welcom"
+            android:transitionName="logo_text"
+            android:textColor="@color/black"
+            android:textSize="40sp" />
+
+
+        <TextView
+            android:id="@+id/slogan_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/antic"
+            android:text="@string/sign_in_to_countinue"
+            android:transitionName="sloganText"
+            android:textColor="#0C0C0C"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:orientation="vertical">
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/email_address"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:id="@+id/email"
+                    android:layout_height="wrap_content"
+                    android:transitionName="uname"
+                    android:textColorHint="#8E8B8B"
+                    android:textColor="@color/black"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/password"
+                app:passwordToggleEnabled="true"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:id="@+id/password"
+                    android:textColorHint="#8E8B8B"
+                    android:inputType="numberPassword"
+                    android:textColorHighlight="@color/black"
+                    android:transitionName="pass_tran"/>
+            </com.google.android.material.textfield.TextInputLayout>
+            <TextView
+                android:layout_width="200dp"
+                android:id="@+id/forgotpassword"
+                android:layout_height="wrap_content"
+                android:background="#00000000"
+                android:text="@string/forget_password"
+                android:fontFamily="@font/antic"
+                android:textColor="@color/black"
+                android:layout_gravity="right"
+                android:gravity="right"
+                android:elevation="0dp"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/btnlogin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="@color/orange_yellow"
+
+                android:text="@string/login"
+                android:textColor="#fff"
+                android:transitionName="button_tran" />
+
+            <TextView
+                android:id="@+id/btnregis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:layout_margin="5dp"
+                android:background="#00000000"
+                android:elevation="0dp"
+                android:fontFamily="@font/antic"
+                android:text="@string/don_t_have_account_register"
+                android:textColor="@color/black"
+                android:transitionName="login2signup" />
+        </LinearLayout>
+
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</ScrollView>

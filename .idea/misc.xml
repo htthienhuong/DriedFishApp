@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Demo3/app/src/main/res/drawable/searchview_background.xml" value="0.1145" />
+        <entry key="..\:/Demo3/app/src/main/res/layout/activity_email_verify.xml" value="0.2" />
+        <entry key="..\:/Demo3/app/src/main/res/layout/activity_forgot_password.xml" value="0.16666666666666666" />
+        <entry key="..\:/Demo3/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Demo3/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Demo3/app/src/main/res/layout/activity_main_test.xml" value="0.1641025641025641" />
+        <entry key="..\:/Demo3/app/src/main/res/layout/activity_main_test2.xml" value="0.1" />
+        <entry key="..\:/Demo3/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Demo3/app/src/main/res/layout/dialog_progress.xml" value="0.22" />
+        <entry key="..\:/Demo3/app/src/main/res/layout/hello.xml" value="0.1641025641025641" />
+        <entry key="..\:/Demo3/app/src/main/res/layout/item_fish.xml" value="0.2" />
+        <entry key="..\:/Demo3/app/src/main/res/layout/list_activity.xml" value="0.19895833333333332" />
+        <entry key="..\:/Demo3/app/src/main/res/layout/menu.xml" value="0.1641025641025641" />
+        <entry key="..\:/Demo3/app/src/main/res/layout/nav_header.xml" value="0.19895833333333332" />
+        <entry key="..\:/Demo3/app/src/main/res/layout/search_activity.xml" value="0.3333333333333333" />
+        <entry key="..\:/Demo3/app/src/main/res/layout/test.xml" value="0.19895833333333332" />
+        <entry key="..\:/Demo3/app/src/main/res/layout/toolbar.xml" value="0.16324786324786325" />
+        <entry key="..\:/Demo3/app/src/main/res/menu/drawer_view.xml" value="0.2" />
+        <entry key="..\:/Demo3/app/src/main/res/menu/main_menu.xml" value="0.2" />
+        <entry key="..\:/Demo3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.206" />
+        <entry key="..\:/Demo3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.206" />
+        <entry key="..\:/Demo6/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1145" />
+        <entry key="..\:/Demo6/app/src/main/res/drawable/ic_baseline_shadow_favorite_24.xml" value="0.1145" />
+        <entry key="..\:/Demo6/app/src/main/res/drawable/ic_search.xml" value="0.1145" />
+        <entry key="..\:/Demo6/app/src/main/res/font/antic.xml" value="0.21203703703703702" />
+        <entry key="..\:/Demo6/app/src/main/res/layout/activity_forgot_password.xml" value="0.2" />
+        <entry key="..\:/Demo6/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Demo6/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Demo6/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Demo6/app/src/main/res/layout/activity_show_result.xml" value="0.2" />
+        <entry key="..\:/Demo6/app/src/main/res/layout/activity_user.xml" value="0.2" />
+        <entry key="..\:/Demo6/app/src/main/res/layout/hello.xml" value="0.2" />
+        <entry key="..\:/Demo6/app/src/main/res/layout/item_fish.xml" value="0.2" />
+        <entry key="..\:/Demo6/app/src/main/res/layout/nav_header.xml" value="0.2" />
+        <entry key="..\:/Demo6/app/src/main/res/layout/search_activity.xml" value="0.2" />
+        <entry key="..\:/Demo6/app/src/main/res/layout/toolbar.xml" value="0.2" />
+        <entry key="..\:/Demo6/app/src/main/res/menu/drawer_view.xml" value="0.2" />
+        <entry key="..\:/DriedFish_3-main/app/src/main/res/drawable-v24/image_box.xml" value="0.1145" />
+        <entry key="..\:/DriedFish_3-main/app/src/main/res/font/boogaloo.xml" value="0.21203703703703702" />
+        <entry key="..\:/DriedFish_3-main/app/src/main/res/layout/activity_favourite.xml" value="0.1408514492753623" />
+        <entry key="..\:/DriedFish_3-main/app/src/main/res/layout/activity_forgot_password.xml" value="0.14130434782608695" />
+        <entry key="..\:/DriedFish_3-main/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/DriedFish_3-main/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/DriedFish_3-main/app/src/main/res/layout/activity_more_detail.xml" value="0.16666666666666666" />
+        <entry key="..\:/DriedFish_3-main/app/src/main/res/layout/activity_register.xml" value="0.1408514492753623" />
+        <entry key="..\:/DriedFish_3-main/app/src/main/res/layout/activity_show_recipe.xml" value="0.14130434782608695" />
+        <entry key="..\:/DriedFish_3-main/app/src/main/res/layout/activity_show_result.xml" value="0.14130434782608695" />
+        <entry key="..\:/DriedFish_3-main/app/src/main/res/layout/activity_splash_screen.xml" value="0.1408514492753623" />
+        <entry key="..\:/DriedFish_3-main/app/src/main/res/layout/activity_user.xml" value="0.1408514492753623" />
+        <entry key="..\:/DriedFish_3-main/app/src/main/res/layout/fragment_history.xml" value="0.1408514492753623" />
+        <entry key="..\:/DriedFish_3-main/app/src/main/res/layout/hello.xml" value="0.1408514492753623" />
+        <entry key="..\:/DriedFish_3-main/app/src/main/res/layout/item_fish.xml" value="0.1408514492753623" />
+        <entry key="..\:/DriedFish_3-main/app/src/main/res/layout/item_recipe.xml" value="0.1408514492753623" />
+        <entry key="..\:/DriedFish_3-main/app/src/main/res/layout/nav_header.xml" value="0.1408514492753623" />
+        <entry key="..\:/DriedFish_3-main/app/src/main/res/layout/search_activity.xml" value="0.1408514492753623" />
+        <entry key="..\:/DriedFish_3-main/app/src/main/res/layout/toolbar.xml" value="0.1408514492753623" />
+        <entry key="..\:/DriedSeaFood-main/app/src/main/res/layout/activity_favourite.xml" value="0.2" />
+        <entry key="..\:/DriedSeaFood-main/app/src/main/res/layout/activity_forgot_password.xml" value="0.2" />
+        <entry key="..\:/DriedSeaFood-main/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/DriedSeaFood-main/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/DriedSeaFood-main/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/DriedSeaFood-main/app/src/main/res/layout/activity_show_recipe.xml" value="0.15" />
+        <entry key="..\:/DriedSeaFood-main/app/src/main/res/layout/activity_show_result.xml" value="0.2" />
+        <entry key="..\:/DriedSeaFood-main/app/src/main/res/layout/activity_user.xml" value="0.1" />
+        <entry key="..\:/DriedSeaFood-main/app/src/main/res/layout/hello.xml" value="0.2" />
+        <entry key="..\:/DriedSeaFood-main/app/src/main/res/layout/item_fish.xml" value="0.2" />
+        <entry key="..\:/DriedSeaFood-main/app/src/main/res/layout/nav_header.xml" value="0.2" />
+        <entry key="..\:/DriedSeaFood-main/app/src/main/res/layout/search_activity.xml" value="0.1" />
+        <entry key="..\:/DriedSeaFood-main/app/src/main/res/layout/toolbar.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/Downloads/52100902 (2)/New folder/DriedFish_3-main/app/src/main/res/layout/activity_main.xml" value="0.2234375" />
+        <entry key="..\:/Users/Admin/Downloads/52100902 (2)/New folder/DriedFish_3-main/app/src/main/res/layout/fragment_history.xml" value="0.2234375" />
+        <entry key="..\:/Users/TranBaoAnh/Downloads/Compressed/Demo3/Demo3/app/src/main/res/layout/activity_add_fish_item.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/TranBaoAnh/Downloads/Compressed/Demo3/Demo3/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/TranBaoAnh/Downloads/Compressed/Demo3/Demo3/app/src/main/res/layout/hello.xml" value="0.25" />
+        <entry key="..\:/Users/TranBaoAnh/Downloads/Compressed/Demo3/Demo3/app/src/main/res/layout/search_activity.xml" value="0.22" />
+        <entry key="..\:/Users/TranBaoAnh/Downloads/Compressed/Demo3/Demo3/app/src/main/res/layout/testing_layout.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/TranBaoAnh/Downloads/Compressed/Demo3/Demo3/app/src/main/res/menu/drawer_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/TranBaoAnh/Downloads/Compressed/Demo3/Demo3/app/src/main/res/xml/file_paths.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/TranBaoAnh/Downloads/Compressed/Demo3/app/src/main/res/layout/activity_show_result.xml" value="0.25" />
+        <entry key="..\:/Users/TranBaoAnh/Downloads/Compressed/Demo3/app/src/main/res/layout/fragment_show_result.xml" value="0.22" />
+        <entry key="..\:/Users/TranBaoAnh/Downloads/Compressed/Demo3/app/src/main/res/layout/item_fish.xml" value="0.12952898550724637" />
+        <entry key="..\:/Users/TranBaoAnh/Downloads/Compressed/Demo3/app/src/main/res/layout/search_activity.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/DriedFish_2/app/src/main/res/layout/activity_detail_more.xml" value="0.16893115942028986" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/DriedFish_2/app/src/main/res/layout/activity_favourite.xml" value="0.22" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/DriedFish_2/app/src/main/res/layout/activity_more_detail.xml" value="0.19" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/DriedFish_2/app/src/main/res/layout/activity_show_more_detail.xml" value="0.16893115942028986" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/DriedFish_2/app/src/main/res/layout/activity_show_recipe.xml" value="0.18" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/DriedFish_2/app/src/main/res/layout/activity_show_result.xml" value="0.2" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/DriedFish_2/app/src/main/res/layout/fragment_history.xml" value="0.22" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/DriedFish_2/app/src/main/res/layout/item_fish.xml" value="0.17572463768115942" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/DriedFish_2/app/src/main/res/layout/item_recipe.xml" value="0.17572463768115942" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/DriedFish_2/app/src/main/res/layout/toolbar.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/FindYourDriedFish/app/src/main/res/layout/activity_favourite.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/FindYourDriedFish/app/src/main/res/layout/activity_forgot_password.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/FindYourDriedFish/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/FindYourDriedFish/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/FindYourDriedFish/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/FindYourDriedFish/app/src/main/res/layout/activity_user.xml" value="0.22" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/FindYourDriedFish/app/src/main/res/layout/hello.xml" value="0.1068840579710145" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/FindYourDriedFish/app/src/main/res/layout/item_fish.xml" value="0.22" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/FindYourDriedFish/app/src/main/res/layout/nav_header.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/FindYourDriedFish/app/src/main/res/layout/search_activity.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/FindYourDriedFish/app/src/main/res/layout/toolbar.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/TranBaoAnh/StudioProjects/FindYourDriedFish/app/src/main/res/menu/drawer_view.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3333333333333333" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
